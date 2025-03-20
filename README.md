@@ -14,6 +14,9 @@ I write about Azure, DevOps, and data engineering topics, aiming to share practi
 
 ## GitHub Stats
 
-<p align = "center">
 ![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosacchi&show_icons=true&theme=radical)
-</p>
+
+<p align = "center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=carlosacchi&show_icons=true&theme=bear" width = 400>
+ </p>
+ 
