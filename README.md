@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me
 
-<!--
-**carlosacchi/carlosacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cloud and DevOps Engineer specializing in Microsoft Azure.
+I write about Azure, DevOps, and data engineering topics, aiming to share practical insights and best practices.
 
-Here are some ideas to get you started:
+## Recent Articles on my [blog](https://www.carlosacchi.cloud/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/carlo-sacchi/](https://www.linkedin.com/in/carlo-sacchi/)
+- **Personal Blog:** [carlosacchi.cloud](https://www.carlosacchi.cloud/)
+- **Azure Italia Podcast:** [azureitalia.cloud](https://www.azureitalia.cloud/)
+- **Next IT Coach:** [nextitcoach.it](https://www.nextitcoach.it/)
+
+## GitHub Stats
+
+![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosacchi&show_icons=true&theme=radical)
+
