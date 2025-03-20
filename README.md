@@ -21,4 +21,6 @@ I write about Azure, DevOps, and data engineering topics, aiming to share practi
 <p align = "center">
    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=carlosacchi&show_icons=true&theme=nord" width = 400>
 </p>
- 
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosacchi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosacchi&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
