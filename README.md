@@ -15,6 +15,7 @@ I write about Azure, DevOps, and data engineering topics, aiming to share practi
 ## GitHub Stats
 <p align = "center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosacchi&show_icons=true&theme=nord" alt="carlosacchi's github stats" height=200 /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosacchi&layout=compact&theme=nord&hide_border=true" height=200 />
+</p>
 
 ### Languages and Tools:
 
