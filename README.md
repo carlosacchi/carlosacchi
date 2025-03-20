@@ -14,7 +14,7 @@ I write about Azure, DevOps, and data engineering topics, aiming to share practi
 
 ## GitHub Stats
 <p align = "center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosacchi&show_icons=true&theme=nord" alt="carlosacchi's github stats" height=100 /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosacchi&layout=compact&theme=nord&hide_border=true" height=100 /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosacchi&show_icons=true&theme=nord" alt="carlosacchi's github stats" height=200 /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosacchi&layout=compact&theme=nord&hide_border=true" height=200 /></a>
 
 ### Languages and Tools:
 <p align = "center">
