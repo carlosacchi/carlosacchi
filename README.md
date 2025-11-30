@@ -12,11 +12,6 @@ I write about Azure, DevOps, and data engineering topics, aiming to share practi
 - **Azure Italia Podcast:** [azureitalia.cloud](https://www.azureitalia.cloud/)
 - **Next IT Coach:** [nextitcoach.it](https://www.nextitcoach.it/)
 
-## GitHub Stats
-<p align = "center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosacchi&layout=compact&theme=nord&hide_border=true" height=200 />
-</p>
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
